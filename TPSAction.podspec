@@ -9,7 +9,7 @@ Pod::Spec.new do |s|
 			继承某些属性
                    DESC
 
-  s.homepage     = "http://192.168.20.179/dev/IOS.git"
+  s.homepage     = "https://github.com/zuoxueliangIOS/TPSAction.git"
   s.license      = 'MIT'
   # s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
   # 版权声明
@@ -26,7 +26,7 @@ Pod::Spec.new do |s|
   # s.tvos.deployment_target = "9.0"
   # 只能支持这一个系统
 
-  s.source       = { :git => "http://192.168.20.179/dev/IOS.git", :tag => s.version.to_s }
+  s.source       = { :git => "https://github.com/zuoxueliangIOS/TPSAction.git", :tag => s.version.to_s }
 
 
   # ――― Source Code ―――――――――――――――――――――――――――――――――――――――――――――――――――――――――――――― #
