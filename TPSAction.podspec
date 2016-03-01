@@ -6,7 +6,7 @@ Pod::Spec.new do |s|
 
 
   s.description  = <<-DESC
-			继承某些属性
+			显示一个控件的样式，功能，补考时间的垃圾收
                    DESC
 
   s.homepage     = "https://github.com/zuoxueliangIOS/TPSAction.git"
@@ -37,7 +37,7 @@ Pod::Spec.new do |s|
   #  Not including the public_header_files will make all headers public.
   #
 
-  s.source_files = 'TPSACTion/TPSMessageAction/*'
+  s.source_files = 'TPSAction/MessageAction/*'
   #  s.exclude_files = "Classes/Exclude"
   # s.public_header_files = "Classes/**/*.h"
 
